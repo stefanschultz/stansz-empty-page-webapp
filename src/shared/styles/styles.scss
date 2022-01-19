@@ -1,0 +1,31 @@
+/* Ant Design */
+@import '~antd/dist/antd.css';
+
+/*
+ *
+ * GENERAL LAYOUT AND STYLING
+ *
+ */
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/*
+ *
+ * COLORS
+ *
+ */
+.stansz-color-blue {
+  color: rgba(0, 57, 128, 1.0);
+}
+
+.stansz-color-red {
+  color: rgba(185, 0, 0, 1.0);
+}
+
+.stansz-background-color-white {
+  background-color: rgba(255, 255, 255, 1.0);
+}
